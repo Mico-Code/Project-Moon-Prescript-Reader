@@ -6,7 +6,7 @@ import sys
 import os
 from PIL import Image, ImageTk, ImageEnhance  # type: ignore
 
-# ── Prescripts ───────────────────────────────────────────────────────────────
+#"Prescripts"
 PRESCRIPTS = [
     "Prepare to act and watch the last person to talk to you die. Afterward, discard this prescript...",
     "Retrieve the package from your Neighbors House.",
@@ -33,9 +33,15 @@ PRESCRIPTS = [
     "Go to the library and scream the moment you enter. If asked why, just scream.",
     "You Must Gangnam Like I Have.",
     "Let's Larp."
+    "Collect my prescripts twin",
+    "Perma Ban Widowmaker From Overwatch",
+    "Spoil the ending of an anime for the next person you talk to",
+    "Tell someone that you told one lie on april",
+    "Go to the store and only buy a toaster and a tub plug, when asked why tell them 'I miss her' and leave without another word",
+
 ]
 
-# ── Palette ──────────────────────────────────────────────────────────────────
+#Color Pallette
 BG         = "#090d12"
 SCREEN_BG  = "#060b14"
 SCREEN_FG  = "#7ab8e8"
