@@ -38,7 +38,19 @@ PRESCRIPTS = [
     "Spoil the ending of an anime for the next person you talk to",
     "Tell someone that you told one lie on april",
     "Go to the store and only buy a toaster and a tub plug, when asked why tell them 'I miss her' and leave without another word",
-
+    "Piss on kids.",
+    "Jerk off in a public bathroom and then leave without washing your hands.",
+    "Go to a restaurant and order the most expensive thing on the menu, when it arrives say 'This is not what I ordered' and then leave without paying.",
+    "Go to a movie theater and yell 'This is the worst movie I've ever seen' during the quietest part of the film.",
+    "Go to a park and start doing jumping jacks in the middle of a group of people having a picnic.",
+    "Go to a dog park with a leash around your next and ask random people if they're your master, if they say yes start wagging your imaginary tail and barking, if they say no start crying and say 'I just want to be loved'.",
+    "Bleed on the floor of a grocery store and then walk around barefoot for a while before leaving.",
+    "Pretend that you're a furry and have anal butt plug problems in the middle of a crowded street and ask people for help, if they offer to help say 'I'm proud of you Son' and then run away without another word.",
+    "Ask someone if they want to see a magic trick, if they say yes shoot the person next to them and say 'Tada!, he doen't exist anymore'.",
+    "Adopt a cat and name it after the last person you talked to, then post pictures of the cat on social media for a month without explaining why.",
+    "Go to a busy intersection and start doing the macarena in the middle of the crosswalk while cars are waiting for you to cross.",
+    "Go to a fast food restaurant and order a burger with no bun, then eat it with your hands and say 'This is how I like it' before leaving without paying.",
+    "Happy April Fools Day! You have been pranked by the Index.",
 ]
 
 #Color Pallette
